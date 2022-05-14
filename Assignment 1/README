@@ -1,0 +1,15 @@
+The file contains the following implementations:
+
+Problem 1: Image Denoising
+    Implement a mean filter using "for" loop.
+    Implement a mean filter using a filter matrix.
+    Implement a Gaussian filter.
+
+Problem 2: Edge Detection
+    Implement a Delta (Gradient) filter.
+    Implement a Laplacian filter.
+
+Problem 3: Create Hybrid Images
+    Implement Fourier transform
+    Implement low and high pass filter and apply them to images
+    Create a hybrid image using high-pass and low-pass fitlered images

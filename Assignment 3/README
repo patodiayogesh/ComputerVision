@@ -1,0 +1,11 @@
+In this assignment we’ll build a simple convolutional neural network
+in PyTorch and Train it to recognize natural objects using the CIFAR-10 dataset.
+We observe the difference between training from scratch and fine-tuning a
+pre-trained model
+
+We also perform experiment to understand how a deep NN works.
+The deep learning is quite powerful and can achieve great performance after training for a few epochs.
+However, we still don't know why it works.
+Thus, we first study activation map to analysis the region that triggers the final classification.
+Then, we visualize a few kernels to infer what is learned in the neural network.
+The results and inference can be viewd in the notebook.

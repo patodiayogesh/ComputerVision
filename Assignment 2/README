@@ -1,0 +1,7 @@
+The assignment deals with implementation of back-propagation.
+We also look at various Gradient methods and observe how they work:
+    Full Gradient Descent
+    Stochastic Gradient Descent
+    Stochastic Gradient Descent + Momentum
+    AdaGrad
+    Adaptive Moment Estimation (ADAM)
